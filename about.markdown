@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: このサイトについて
 permalink: /about/
 ---
